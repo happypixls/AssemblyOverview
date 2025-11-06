@@ -12,7 +12,9 @@ For convenience, add gcc and nasm into your environment path
 
 Recommended reading
 https://www.amazon.com/Art-64-Bit-Assembly-Language/dp/1718501080
+
 NASM tutorial is for Mac and Linux platforms, however it can be a useful reference
 https://cs.lmu.edu/~ray/notes/nasmtutorial/
+
 Interesting tutorial for NASM on windows
 https://sonictk.github.io/asm_tutorial/
